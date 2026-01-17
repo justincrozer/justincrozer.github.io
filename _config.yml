@@ -1,0 +1,20 @@
+plugins:
+  - jekyll-sitemap
+
+# SEO Stuff
+author: Justin Crozer
+description: Linux, tech,  notes, thoughts, and things I found worth jotting down when I should have been doing something more productive (actually working). I'm Justin, this is my blog. Hi.
+lang: en
+locale: en_US
+url: "https://justincrozer.is"
+git_web_base: https://github.com/justincrozer/justincrozer.github.io/blob/HEAD/
+baseurl: ""
+permalink: :title
+
+# RSS feeds
+feed:
+  posts_limit: 20
+
+# Netlify redirects
+include:
+  - _redirects

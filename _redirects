@@ -1,0 +1,9 @@
+# Redirects from what the browser requests to what the page serves
+/blogroll               /blogroll
+/contact                /contact
+/contributing           /contributing
+/defaults               /defaults
+/now                    /now
+/support                /support
+/whois                  /whois
+/RSS feed               /feed.xml
